@@ -1,0 +1,11 @@
+/code/mirror-quickstart-java/src/main/java/com/google/glassware/AuthUtil.java
+/code/mirror-quickstart-java/src/main/java/com/google/glassware/MirrorClient.java
+/code/mirror-quickstart-java/src/main/java/com/google/glassware/ListableMemoryCredentialStore.java
+/code/mirror-quickstart-java/src/main/java/com/google/glassware/AuthServlet.java
+/code/mirror-quickstart-java/src/main/java/com/google/glassware/MainServlet.java
+/code/mirror-quickstart-java/src/main/java/com/google/glassware/WebUtil.java
+/code/mirror-quickstart-java/src/main/java/com/google/glassware/AuthFilter.java
+/code/mirror-quickstart-java/src/main/java/com/google/glassware/ReauthFilter.java
+/code/mirror-quickstart-java/src/main/java/com/google/glassware/AttachmentProxyServlet.java
+/code/mirror-quickstart-java/src/main/java/com/google/glassware/NewUserBootstrapper.java
+/code/mirror-quickstart-java/src/main/java/com/google/glassware/NotifyServlet.java
